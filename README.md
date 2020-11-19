@@ -21,6 +21,6 @@ Online quran player for iOS/Android.
 
 # Download  
 <a href="https://github.com/era7imOSS/quran-player/releases/download/v1.0/QuranMushaf.apk" rel="nofollow">Android</a>   
-<a href="" rel="nofollow">iOS</a>
+<a href="" rel="nofollow">iOS(i don't have Mac)</a>
 
 
