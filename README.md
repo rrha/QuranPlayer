@@ -14,7 +14,7 @@ Online quran player for iOS/Android.
 
 <strong>Run the app</strong>  
 <ul>
-<li>Open the solution file in Unity.</li>
+<li>Open the main scene in Unity.</li>
 <li>Build and run the app.</li>
 </ul>
 
