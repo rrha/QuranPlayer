@@ -8,7 +8,8 @@ Online quran player for iOS/Android.
 <strong>Requirements</strong>    
 <ul>
 <li><a href="https://visualstudio.microsoft.com/" rel="nofollow">Visual Studio</a></li>
-<li><a href="https://store.unity.com/" rel="nofollow">Unity</a></li>
+<li><a href="https://store.unity.com/" rel="nofollow">Unity</a></li>  
+<li><a href="https://github.com/era7imOSS/quran-player/blob/master/ProjectSettings/ProjectVersion.txt" rel="nofollow">See</a></li>  
 </ul>
 
 
