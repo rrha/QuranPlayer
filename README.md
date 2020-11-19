@@ -13,8 +13,10 @@ Online quran player for iOS/Android.
 
 
 <strong>Run the app</strong>  
-Open the solution file in Unity.   
-Build and run the app. 
+<ul>
+<li>Open the solution file in Unity.</li>
+<li>Build and run the app.</li>
+</ul>
 
 # Download  
 <a href="https://github.com/era7imOSS/quran-player/releases/download/v1.0/QuranMushaf.apk" rel="nofollow">Android</a>   
