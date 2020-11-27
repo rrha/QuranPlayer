@@ -24,3 +24,10 @@ Online quran player for iOS/Android.
 <a href="https://github.com/era7imOSS/quran-player/issues/1" rel="nofollow">iOS</a>
 
 
+# Contribute  
+<p>
+<strong>We :heart: Contributors Like You!. </strong>      
+</p> 
+<p>
+Create pull request and will review your code.
+</p>
