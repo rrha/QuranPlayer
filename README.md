@@ -1,6 +1,6 @@
 # Quran Player
 <p align="center">
-  Online quran player for iOS/Android.
+  <strong>Online quran player for iOS/Android.</strong>
 <p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaidRH/unity-online-quran-audio-player/master/preview.gif" width="300">  
