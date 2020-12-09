@@ -28,8 +28,5 @@
 
 # Contribute  
 <p>
-<strong>We :heart: Contributors Like You!. </strong>      
-</p> 
-<p>
-Create pull request and will review your code.
+see [issues](https://github.com/SaidRH/QuranPlayer/issues).
 </p>
