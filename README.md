@@ -27,8 +27,5 @@
 
 
 # Contribute  
-<p>
-see [issues](https://github.com/SaidRH/QuranPlayer/issues).
- [GitHub](http://github.com)
 
-</p>
+See [issues](https://github.com/SaidRH/QuranPlayer/issues).
